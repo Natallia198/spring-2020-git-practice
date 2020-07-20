@@ -5,6 +5,7 @@ yellow
 blue
 take out purpl
 gray
-blue
+orange
+######
 
 
