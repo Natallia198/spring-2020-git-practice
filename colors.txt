@@ -6,5 +6,6 @@ blue
 take out purpl
 gray
 blue
+lilac
 
 
