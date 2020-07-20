@@ -3,4 +3,6 @@ pink
 green
 yellow
 blue
-take out purpl 
+take out purpl
+gray
+
