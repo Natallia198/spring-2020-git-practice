@@ -7,5 +7,7 @@ take out purpl
 gray
 orange
 ######
+blue
+lilac
 
 
